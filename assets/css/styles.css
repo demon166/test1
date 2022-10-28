@@ -14,3 +14,11 @@ h1{
     padding-block-end: 1rem;
     border: 1px solid teal;
 }
+
+.border-2{
+    border-width: 2px;
+}
+
+.section.border-2{
+    border-width: 2px;
+}
